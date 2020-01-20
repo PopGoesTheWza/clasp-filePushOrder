@@ -1,0 +1,8 @@
+{
+  "scriptId":"1Ap43oHk_Vc0ZYB_7MPOtnnJLEsmQqIvvH2xibRL1d4HBpeE6njEvfHKA",
+  "rootDir":"./src",
+  "filePushOrder": [
+    "src/B.ts",
+    "src/AA.ts"
+  ]
+}
